@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697735746339",
+    "project_id": "websocket-flutter",
+    "storage_bucket": "websocket-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697735746339:android:72458b77d8cf815a10b296",
+        "android_client_info": {
+          "package_name": "com.kibandi.flutterwebsocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697735746339-dfom1enb8t3objovmobrnubc5stenuc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kibandi.flutterwebsocket",
+            "certificate_hash": "9bb1bbef5af5c78e934106cfa3650aa70bc89de1"
+          }
+        },
+        {
+          "client_id": "697735746339-pdff5fjmf5jdkn2cdrv7vhtevi522d6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKShb0X9Axe_G3bVCyEO5Y8sDkzgOHuIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697735746339-pdff5fjmf5jdkn2cdrv7vhtevi522d6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
